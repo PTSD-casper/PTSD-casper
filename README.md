@@ -9,3 +9,4 @@
 --
 🔧 技術棧：Python｜HTML｜JavaScript｜Linux｜Git
 🛠️ 正在製作的專案：[天氣預測]
+🖥️最近打CTF
